@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>campusBookingModel</id>
+    <version>1.0.0</version>
+    <authors>campusBookingModel</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="EntityFramework" version="6.4.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="5.0.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Documents\Intric SL\campusBooking\api\campusBookingModel\bin\Debug\net5.0\campusBookingModel.runtimeconfig.json" target="lib\net5.0\campusBookingModel.runtimeconfig.json" />
+    <file src="D:\Documents\Intric SL\campusBooking\api\campusBookingModel\bin\Debug\net5.0\campusBookingModel.dll" target="lib\net5.0\campusBookingModel.dll" />
+  </files>
+</package>

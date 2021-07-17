@@ -1,0 +1,15 @@
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\bin\Debug\net5.0\campusBookingModel.deps.json
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\bin\Debug\net5.0\campusBookingModel.dll
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\bin\Debug\net5.0\ref\campusBookingModel.dll
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\bin\Debug\net5.0\campusBookingModel.pdb
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\obj\Debug\net5.0\campusBookingModel.csproj.AssemblyReference.cache
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\obj\Debug\net5.0\campusBookingModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\obj\Debug\net5.0\campusBookingModel.AssemblyInfoInputs.cache
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\obj\Debug\net5.0\campusBookingModel.AssemblyInfo.cs
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\obj\Debug\net5.0\campusBookingModel.csproj.CoreCompileInputs.cache
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\obj\Debug\net5.0\campusBookingModel.dll
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\obj\Debug\net5.0\ref\campusBookingModel.dll
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\obj\Debug\net5.0\campusBookingModel.pdb
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\bin\Debug\net5.0\campusBookingModel.runtimeconfig.json
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\bin\Debug\net5.0\campusBookingModel.runtimeconfig.dev.json
+D:\Documents\Intric SL\campusBooking\api\campusBookingModel\obj\Debug\net5.0\campusBookingModel.genruntimeconfig.cache

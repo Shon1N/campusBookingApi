@@ -1,0 +1,6 @@
+D:\Documents\Intric SL\campusBooking\api\campusBookingDatabase\bin\Debug\campusBookingDatabase.dacpac
+D:\Documents\Intric SL\campusBooking\api\campusBookingDatabase\bin\Debug\campusBookingDatabase.dll
+D:\Documents\Intric SL\campusBooking\api\campusBookingDatabase\bin\Debug\campusBookingDatabase.pdb
+D:\Documents\Intric SL\campusBooking\api\campusBookingDatabase\obj\Debug\campusBookingDatabase.sqlproj.AssemblyReference.cache
+D:\Documents\Intric SL\campusBooking\api\campusBookingDatabase\obj\Debug\campusBookingDatabase.dll
+D:\Documents\Intric SL\campusBooking\api\campusBookingDatabase\obj\Debug\campusBookingDatabase.pdb
